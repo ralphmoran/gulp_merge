@@ -1,0 +1,28 @@
+{
+  "name": "gulp_merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphmoran/gulp_merge.git"
+  },
+  "keywords": [],
+  "author": "Ralph Moran <ralphmoran2003@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ralphmoran/gulp_merge/issues"
+  },
+  "homepage": "https://github.com/ralphmoran/gulp_merge#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "merge-stream": "^1.0.1"
+  }
+}
