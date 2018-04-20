@@ -1,5 +1,5 @@
 const gulp      = require('gulp'            ); // Gulp
-const merge     = require('merge-stream'    ); // Execute tasks in one line
+const merge     = require('merge-stream'    ); // Execute multiple sources in one task
 const minify    = require('gulp-csso'       ); // Minify CSS files
 const concat    = require('gulp-concat'     ); // Concating files
 const sourmaps  = require('gulp-sourcemaps' ); // Buffer file's content
